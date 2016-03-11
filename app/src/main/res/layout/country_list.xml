@@ -13,6 +13,7 @@
         android:layout_height="40dp"
         android:gravity="center|left"
         android:paddingRight="4dp"
+        android:textColor="#525252"
         android:layout_marginLeft="20dp"
         android:singleLine="true"
         android:ellipsize="end"
